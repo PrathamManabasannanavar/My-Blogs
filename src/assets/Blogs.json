@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "title": "How to Start a Blog",
+      "date": "2025-03-12",
+      "content": "Starting a blog is easy with the right tools and mindset. Here's how to get started.",
+      "url": "https://example.com/how-to-start-a-blog"
+    },
+    {
+      "id": 2,
+      "title": "5 Tips for Writing Better Content",
+      "date": "2025-03-11",
+      "content": "Improve your writing by focusing on clarity, structure, and tone. Learn some simple techniques.",
+      "url": "https://example.com/5-tips-for-writing-better-content"
+    },
+    {
+      "id": 3,
+      "title": "SEO Basics for Beginners",
+      "date": "2025-03-10",
+      "content": "SEO can boost your blog traffic. Learn the basics of SEO optimization in this article.",
+      "url": "https://example.com/seo-basics-for-beginners"
+    },
+    {
+      "id": 4,
+      "title": "How to Monetize Your Blog",
+      "date": "2025-03-09",
+      "content": "Monetizing your blog can be done through ads, sponsorships, and affiliate marketing.",
+      "url": "https://example.com/how-to-monetize-your-blog"
+    },
+    {
+      "id": 5,
+      "title": "The Importance of Consistency in Blogging",
+      "date": "2025-03-08",
+      "content": "Consistency is key when it comes to blogging. Find out why posting regularly matters.",
+      "url": "https://example.com/the-importance-of-consistency-in-blogging"
+    },
+    {
+      "id": 6,
+      "title": "Choosing the Right Blogging Platform",
+      "date": "2025-03-07",
+      "content": "Not all blogging platforms are created equal. Here's how to pick the right one for your needs.",
+      "url": "https://example.com/choosing-the-right-blogging-platform"
+    },
+    {
+      "id": 7,
+      "title": "Creating Engaging Blog Content",
+      "date": "2025-03-06",
+      "content": "Engaging content is key to building a loyal audience. Learn how to write posts that keep readers hooked.",
+      "url": "https://example.com/creating-engaging-blog-content"
+    },
+    {
+      "id": 8,
+      "title": "How to Promote Your Blog on Social Media",
+      "date": "2025-03-05",
+      "content": "Social media is a powerful tool for promoting your blog. Here's how to use it effectively.",
+      "url": "https://example.com/how-to-promote-your-blog-on-social-media"
+    },
+    {
+      "id": 9,
+      "title": "Building a Blog Audience from Scratch",
+      "date": "2025-03-04",
+      "content": "Building an audience takes time. Discover strategies for growing your readership.",
+      "url": "https://example.com/building-a-blog-audience-from-scratch"
+    },
+    {
+      "id": 10,
+      "title": "Common Blogging Mistakes to Avoid",
+      "date": "2025-03-03",
+      "content": "Even experienced bloggers make mistakes. Learn about the common ones and how to avoid them.",
+      "url": "https://example.com/common-blogging-mistakes-to-avoid"
+    }
+  ]
+  

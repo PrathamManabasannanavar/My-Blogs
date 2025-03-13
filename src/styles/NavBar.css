@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.NavBar{
+    background-color:rgb(30, 30, 128);
+    position: fixed;
+    color: whitesmoke;
+    top: 0;
+    z-index: 100;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 1px solid black;
+}
+
+.ProfileBox{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 110px;
+}
+
+.userPhoto{
+    background-color: lightblue;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+
+.ComponentBox{
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+    margin-right: 4px;
+}
+
+.ComponentBox div{
+    padding: 2px;
+    margin: 1px;
+}
+
+.ComponentBox div a{
+    text-decoration: none;
+    color: whitesmoke;
+
+    /* background-color: blue; */
+}
+
+.ComponentBox div a:hover{
+    text-decoration: underline;
+}
