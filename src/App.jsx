@@ -9,9 +9,9 @@ function App() {
       <NavBar/>
 
       <Routes>
-        <Route path="My-Blogs/" element={<HomePage/>}></Route>
-        <Route path="My-Blogs/contact" element="contact us"></Route>
-        <Route path="My-Blogs/Blogs" element={<Blogs/>}></Route>
+        <Route path="/" element={<HomePage/>}></Route>
+        <Route path="/contact" element="contact us"></Route>
+        <Route path="/Blogs" element={<Blogs/>}></Route>
       </Routes>
     </Router>
   )

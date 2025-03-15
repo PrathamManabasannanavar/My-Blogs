@@ -17,13 +17,13 @@ function NavBar(){
             {/* Home, contact,  */}
             <div className="ComponentBox">
                 <div>
-                    <Link to="My-Blogs/">Home</Link>
+                    <Link to="/">Home</Link>
                 </div>
                 <div>
-                    <Link to="My-Blogs/blogs">Blogs</Link>
+                    <Link to="/blogs">Blogs</Link>
                 </div>
                 <div>
-                    <Link to="My-Blogs/contact">Contact me</Link>
+                    <Link to="/contact">Contact me</Link>
                 </div>
                 
             </div>

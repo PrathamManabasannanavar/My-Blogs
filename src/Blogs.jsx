@@ -15,11 +15,11 @@ function Blogs(){
             </div>
             <hr className={styles.hrLine}/>
             <div className={styles.BlogsBox}>
-                {jsonData.map(blog => {
+                {jsonData.map((blog, index) => {
                     return(
                     <div key={blog.id} className={styles.ContentBox}>
                         <div className={styles.TitleBox}>
-                            {blog.id}. {blog.title}
+                            {index+1}. {blog.title}
                         </div>
                         <div className={styles.descriptionBox}>
                             <p className={styles.elements}>{blog.content}</p>
