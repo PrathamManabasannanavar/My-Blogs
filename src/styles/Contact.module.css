@@ -1,0 +1,65 @@
+
+.ContentBox{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    animation-name: VisibleEffect;
+    animation-duration: 2s;
+    animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1);
+}
+
+.DetailsBox{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 1px solid whitesmoke;
+    border-radius: 20px;
+    padding: 30px;
+    width: 50%;
+    min-width: 250px;
+    max-width: 500px;
+    height: fit-content;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    color: rgb(255, 255, 255);
+    box-shadow: 0 0 0 5px white;
+}
+
+.platformLink{
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 20px;
+    transition-duration: 1s;
+    background-color: rgb(80, 80, 199);
+    cursor: pointer;
+}
+
+.platformLink:hover{
+    scale: 1.1;
+    box-shadow: 0 0 0 1px rgb(239, 207, 207);
+}
+
+.platformLink pre{
+    align-items: center;
+}
+
+.platformLink span a{
+    color: whitesmoke;
+}
+
+.platformLink span{
+    line-break: anywhere;
+}
+
+
+@keyframes VisibleEffect {
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
