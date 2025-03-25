@@ -77,3 +77,19 @@
         opacity: 1;
     }
 }
+
+@media (max-width: 500px){
+    .BlogsBox{
+        display: flex;
+        justify-content: center;
+        margin-left: 0;
+        /* background-color: red; */
+    }
+
+    .ContentBox:hover{
+        margin-left: 10px;
+        scale: initial;
+        cursor: pointer;
+    }
+
+}

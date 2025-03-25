@@ -80,5 +80,12 @@
     }
 }
 
-
+@media(max-width: 450px){
+    .Intro-Title{
+        width: 80%;
+    }
+    .Intro-Title2{
+        width: 80%;
+    }
+}
 
