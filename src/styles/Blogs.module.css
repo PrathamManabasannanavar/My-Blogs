@@ -93,8 +93,8 @@
     }
 
     .ContentBox{
-        width: 100%;
-        max-width: 80%;
+        width: 83%;
+        max-width: 100%;
     }
 
     .ContentBox:hover{
