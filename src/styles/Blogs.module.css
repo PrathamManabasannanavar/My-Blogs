@@ -40,6 +40,7 @@
     color: white;
     transition-duration: 1s;
     width: fit-content;
+    max-width: 70%;
     /* background-color: red; */
 }
 
@@ -58,6 +59,10 @@
 
 .descriptionBox{
     padding-left: 10px;
+}
+
+.descriptionBox p{
+    overflow-wrap: break-word;
 }
 
 .elements{
@@ -82,8 +87,14 @@
     .BlogsBox{
         display: flex;
         justify-content: center;
+        align-items: center;
         margin-left: 0;
         /* background-color: red; */
+    }
+
+    .ContentBox{
+        width: 100%;
+        max-width: 80%;
     }
 
     .ContentBox:hover{
